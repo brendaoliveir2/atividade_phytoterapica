@@ -1,0 +1,143 @@
+.footer{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+    margin: 40px;
+}
+.redessociais{
+    display: flex;
+    flex-direction: row;
+    margin: 15px;
+}
+
+.titulo{
+    text-align: center;
+}
+
+.instagram{
+    background-image: url(../images/icons8-instagram-100.png);
+    background-size: cover;
+    height: 30px;
+    width: 30px;
+    margin: 3px;
+}
+
+.instagram:hover{
+    background-image: url(../images/icons8-instagram1.png);
+    background-size: cover;
+    height: 30px;
+    width: 30px;
+}
+
+.facebook{
+    background-image: url(../images/icons8-facebook-100.png);
+    background-size: cover;
+    height: 30px;
+    width: 30px;
+    margin: 3px;
+}
+
+
+.facebook:hover{
+    background-image: url(../images/icons8-facebook1.png);
+    height: 30px;
+    width: 30px;
+}
+
+.youtube{
+    background-image: url(../images/icons8-youtube-100.png);
+    background-size: cover;
+    height: 30px;
+    width: 30px;
+    margin: 3px;
+}
+
+.youtube:hover{
+    background-image: url(../images/icons8-youtube1.png);
+    height: 30px;
+    width: 30px;
+}
+
+.twitter{
+    background-image: url(../images/icons8-twitter-100.png);
+    background-size: cover;
+    height: 30px;
+    width: 30px;
+    margin: 3px;
+    }
+
+.twitter:hover{
+    background-image: url(../images/icons8-twitter1.png);
+    height: 30px;
+    width: 30px;
+    }
+
+.pix{
+    background-image: url(../images/icons8-pix-100.png);
+    background-size: cover;
+    height: 30px;
+    width: 30px;
+    margin: 3px;
+}
+
+.pix:hover{
+    background-image: url(../images/icons8-pix1.png);
+    height: 30px;
+    width: 30px;
+}
+
+.visa{
+    background-image: url(../images/icons8-visa-100.png);
+    background-size: cover;
+    height: 30px;   
+    width: 30px;
+    margin: 3px;
+}
+
+.visa:hover{
+    background-image: url(../images/icons8-visa1.png);
+    height: 30px;
+    width: 30px;
+}
+
+.mastercard{
+    background-image: url(../images/icons8-mastercard-100.png);
+    background-size: cover;
+    height: 30px;
+    width: 30px;
+    margin: 3px;
+}
+
+.mastercard:hover{
+    background-image: url(../images/icons8-mastercard1.png);
+    height: 30px;
+    width: 30px;
+}
+
+.elo{
+    background-image: url(../images/icons8-parte-traseira-de-cartão-de-banco-100.png);
+    background-size: cover;
+    height: 30px;
+    width: 30px;
+    margin: 3px;
+}
+
+.elo:hover{
+    background-image: url(../images/icons8-parte-traseira-de-cartão-de-banco1.png);
+    height: 30px;
+    width: 30px;
+}
+
+.american{
+    background-image: url(../images/icons8-american-express.png);
+    background-size: cover;
+    height: 30px;
+    width: 30px;
+    margin: 3px;
+}
+
+.american:hover{
+    background-image: url(../images/icons8-american1.png);
+    height: 30px;
+    width: 30px;
+}

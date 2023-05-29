@@ -1,0 +1,241 @@
+.produtos{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-bottom: 50px;
+}
+
+.produtos p{
+    text-align: center;
+}
+
+.product{
+    width: 20%;
+    display: flex;
+    flex: 1 0 25%;
+    flex-direction: column;
+}
+
+.prod1{
+    margin: auto;
+    background-image: url(../images/frascoerva-doce.png);
+    background-size: cover;
+    width: 320px;
+    height: 320px;
+}
+
+.product .prod1:hover{
+    background-image: url(../images/erva-doce.png);
+}
+
+.product .ac{
+    margin: auto;
+    font-weight: 500;
+    font-size: 13.5px;
+    padding: 7px 30px 7px 30px;
+    border: 1px solid #000000;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.product .ac:hover{
+    color: #fff;
+    background-color: #98B020;
+    border: 1px solid #98B020;
+}
+
+.product h1{
+    font-size: 16px;
+    font-weight: 500;
+    padding: 5px;
+    text-align: center;
+}
+
+.product .preco{
+    font-size: 16.5px;
+    font-weight: 500;
+    padding: 5px;
+    color: #98B020;
+    text-align: center;
+}
+
+.product .prod2{
+    margin: auto;
+    background-image: url(../images/artemisia.png);
+    background-size: cover;
+    width: 320px;
+    height: 320px;
+}
+
+.product .prod2:hover{
+    background-image: url(../images/frascoartemisia.png);
+}
+
+.product .prod3{
+    margin: auto;
+    background-image: url(../images/frascobetula.png);
+    background-size: cover;
+    width: 320px;
+    height: 320px;
+}
+
+.product .prod3:hover{
+    background-image: url(../images/betula.png);
+}
+
+.product .prod4{
+    margin: auto;
+    background-image: url(../images/cafe.png);
+    background-size: cover;
+    width: 320px;
+    height: 320px;
+}
+
+.product .prod4:hover{
+    background-image: url(../images/frascocafe.png);
+}
+
+.product .prod5{
+    margin: auto;
+    background-image: url(../images/canela.png);
+    background-size: cover;
+    width: 320px;
+    height: 320px;
+}
+
+.product .prod5:hover{
+    background-image: url(../images/frascocanela.png);
+}
+
+.product .prod6{
+    margin: auto;
+    background-image: url(../images/cedro.png);
+    background-size: cover;
+    width: 320px;
+    height: 320px;
+}
+
+.product .prod6:hover{
+    background-image: url(../images/frascocedro.png);
+}
+
+.product .prod7{
+    margin: auto;
+    background-image: url(../images/citronela.png);
+    background-size: cover;
+    width: 320px;
+    height: 320px;
+}
+
+.product .prod7:hover{
+    background-image: url(../images/frascocitronela.png);
+}
+
+.product .prod8{
+    margin: auto;
+    background-image: url(../images/gengibre.png);
+    background-size: cover;
+    width: 320px;
+    height: 320px;
+}
+
+.product .prod8:hover{
+    background-image: url(../images/frascogengibre.png);
+}
+
+.product .prod9{
+    margin: auto;
+    background-image: url(../images/frasco-limao-tahiti.png);
+    background-size: cover;
+    width: 320px;
+    height: 320px;
+}
+
+.product .prod9:hover{
+    background-image: url(../images/limao-tahiti.png);
+}
+
+.product .prod10{
+    margin: auto;
+    background-image: url(../images/manjeroba.png);
+    background-size: cover;
+    width: 320px;
+    height: 320px;
+}
+
+.product .prod10:hover{
+    background-image: url(../images/frascomarjeroba.png);
+}
+
+.product .prod11{
+    margin: auto;
+    background-image: url(../images/olibano.png);
+    background-size: cover;
+    width: 320px;
+    height: 320px;
+}
+
+.product .prod11:hover{
+    background-image: url(../images/frascoolibano.png);
+}
+
+.product .prod12{
+    margin: auto;
+    background-image: url(../images/oregano.png);
+    background-size: cover;
+    width: 320px;
+    height: 320px;
+}
+
+.product .prod12:hover{
+    background-image: url(../images/frascooregano.png);
+}
+
+.product .prod13{
+    margin: auto;
+    background-image: url(../images/salvia.png);
+    background-size: cover;
+    width: 320px;
+    height: 320px;
+}
+
+.product .prod13:hover{
+    background-image: url(../images/frascosalvia.png);
+}
+
+.product .prod14{
+    margin: auto;
+    background-image: url(../images/sandalo.png);
+    background-size: cover;
+    width: 320px;
+    height: 320px;
+}
+
+.product .prod14:hover{
+    background-image: url(../images/frascosandalo.png);
+}
+
+.product .prod15{
+    margin: auto;
+    background-image: url(../images/tomilho.png);
+    background-size: cover;
+    width: 320px;
+    height: 320px;
+}
+
+.product .prod15:hover{
+    background-image: url(../images/frascotomilho.png);
+}
+
+.product .prod16{
+    margin: auto;
+    background-image: url(../images/vetiver.png);
+    background-size: cover;
+    width: 320px;
+    height: 320px;
+}
+
+.product .prod16:hover{
+    background-image: url(../images/frascovetiver.png);
+}

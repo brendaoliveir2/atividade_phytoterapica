@@ -1,0 +1,21 @@
+.secao{
+    background-image: url(../images/fundo1.jpg);
+    background-size: cover;
+    padding: 150px;
+}
+
+.secao h1{
+    font-size: 30px;
+    font-weight: 600;
+    color:#5b5b55;
+}
+
+.secao p{
+    font-size: 15.5px;
+    font-weight: 300;
+    padding: 10px 0 10px 0;
+    line-height: 18px;
+    font-family: sans-serif;
+    color: #7b7b81;
+
+}

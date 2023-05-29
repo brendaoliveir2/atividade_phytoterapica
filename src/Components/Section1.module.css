@@ -1,0 +1,50 @@
+.area_filtro{
+    display: flex;
+    width: 250px;
+    margin: 58px;
+}
+
+.filtro{
+    display: flex;
+    flex-direction: row;
+    border: 1px solid #bebebe;
+    border-radius: 6px;
+    margin-right: 33px;
+    align-items: center;
+    height: 50px;
+}
+
+.filtro p{
+    padding: 15px;
+    margin-right: 120px;
+    color:#7c7f7f;
+    font-size: 15px;
+}
+
+.filtro img{
+    margin-right: 15px;
+    width: 20px;
+    height: 20px;
+}
+
+.area_relevancia{
+    flex-direction: row;
+    display: flex;
+    align-items: center;
+    border: 1px solid #bebebe;
+    border-radius: 6px;
+    height: 50px;
+}
+
+.area_relevancia p{
+    padding: 15px;
+    margin-right: 120px;
+    color: #7c7f7f;
+    font-size: 15px;
+}
+
+.area_relevancia img{
+    margin-right: 15px;
+    width: 20px;
+    height: 20px;
+}

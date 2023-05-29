@@ -1,0 +1,43 @@
+.vgn{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    border-bottom: 1px solid #b7b2b2;
+    margin: 8px;
+}
+
+.todos{
+    margin: 20px;
+}
+
+.vegan{
+    display: flex;
+}
+
+.vegan img{
+    margin-right: 25px;
+    margin-top: 25px;
+}
+
+.titulo{
+    margin-right: 12.5px;
+}
+
+.patinha{
+    display: flex;
+    text-align: center;
+}
+
+.patinha img{
+    margin-right: 25px;
+    margin-top: 25px;
+}
+
+.gota{
+    display: flex;
+}
+
+.gota img{
+    margin-right: 25px;
+    margin-top: 25px;
+}
